@@ -1,1 +1,1 @@
-age = int(input('enter your age: '))
+age = int(input('enter age: '))
